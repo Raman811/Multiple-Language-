@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਬਹੁਭਾਸ਼ਾਵਾਂਸਪੋਰਟ</string>
+    <string name="welcome">ਸੁਆਗਤ ਹੈ</string>
+    <string name="email">ਈ - ਮੇਲ</string>
+    <string name="password">ਪਾਸਵਰਡ</string>
+    <string name="login">ਲਾਗਿਨ</string>
+    <string name="signup">ਕੀ ਕੋਈ ਖਾਤਾ ਨਹੀਂ ਹੈ? ਸਾਈਨ ਅਪ ਕਰੋ</string>
+    <string name="changeLang">ਭਾਸ਼ਾ ਬਦਲੋ</string>
+</resources>
